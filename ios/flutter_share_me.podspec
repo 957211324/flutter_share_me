@@ -17,6 +17,6 @@ Flutter Plugin for sharing contents to social media.
   s.dependency 'Flutter'
   s.dependency 'FBSDKShareKit'
   s.dependency 'FBSDKCoreKit'
-  s.ios.deployment_target = '11.0'
+  s.ios.deployment_target = '12.0'
 end
 
